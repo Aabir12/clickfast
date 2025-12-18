@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "jest-environment-jsdom": "^30.2.0",
+    "jsdom": "^27.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "scripts": {
+    "test": "npx jest --env=jsdom"
+  },
+  "name": "clickfast",
+  "version": "1.0.0",
+  "description": "dhjbd",
+  "main": "script.js",
+  "author": "",
+  "license": "ISC"
+}
